@@ -1,0 +1,4 @@
+Test,Min Contour Area,Threshold,Dilation,Frames Processed,Frames with Motion,Detection Rate (%),Motion Events (approx.),Bounding Boxes,Output Video
+Test A - Sensitive,500,20,2,272,231,84.93,44,2106,/content/motion_comparison/Test_A__Sensitive.mp4
+Test B - Original,3000,25,2,272,187,68.75,50,418,/content/motion_comparison/Test_B__Original.mp4
+Test C - Less Sensitive,5000,30,3,272,117,43.01,41,164,/content/motion_comparison/Test_C__Less_Sensitive.mp4
